@@ -1,0 +1,8 @@
+[package]
+name = "noman"
+version = "0.1.0"
+authors = ["jonas"]
+
+[dependencies]
+web-view = "0.2.1"
+nickel = "0.10.1"
